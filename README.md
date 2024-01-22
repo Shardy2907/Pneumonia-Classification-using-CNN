@@ -12,6 +12,6 @@ The dataset used in this project is the [Chest X-ray Images (Pneumonia)](https:/
 
 The CNN model is designed to analyze chest X-ray images and classify them as either normal or pneumonia cases. The architecture of the model includes 3 Convoluntional Layers, 3 Pooling Layers and 1 Flatten and 2 fully connected dense layers.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## View On Kaggle
+You can also check out this Notebook on Kaggle using following link:
+https://www.kaggle.com/code/sharduljoshi29/pneumonia-classification-using-cnn/notebook
